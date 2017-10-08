@@ -1,0 +1,11 @@
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\bin\Debug\ResolverEcuaciones.exe.config
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\bin\Debug\ResolverEcuaciones.exe
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\bin\Debug\ResolverEcuaciones.pdb
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\obj\Debug\ResolverEcuaciones.Form1.resources
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\obj\Debug\ResolverEcuaciones.Properties.Resources.resources
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\obj\Debug\ResolverEcuaciones.csproj.GenerateResource.Cache
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\obj\Debug\ResolverEcuaciones.exe
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\obj\Debug\ResolverEcuaciones.pdb
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\obj\Debug\ResolverEcuaciones.csprojResolveAssemblyReference.cache
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\bin\Debug\OpMatrices.dll
+H:\Progra\ResolverEcuaciones\ResolverEcuaciones\bin\Debug\OpMatrices.pdb
